@@ -18,7 +18,9 @@
 <!--<p align="center">
 <img src='' />
 </p>-->
-
+<p align="center">
+<img src='https://64.media.tumblr.com/2a08dce0d40220617f533bb10b9cb5f5/tumblr_o4sf6ke8jW1udh5n8o1_500.gifv' />
+</p>
 - 🔭 I’m currently working on the website for Department of Mechanical Engineering at PCCOE
 - 🌱 I’m currently learning Web development and data-structures
 - 👯 I’m looking to collaborate on Web-projects.
@@ -31,9 +33,6 @@
 - I am a blogger read my latest blogpost [here][9].
 [9]: paste url here-->
 
-<p align="center">
-<img src='https://64.media.tumblr.com/2a08dce0d40220617f533bb10b9cb5f5/tumblr_o4sf6ke8jW1udh5n8o1_500.gifv' />
-</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajkumawat01" alt="rajkumawat01" /> </p>
 
