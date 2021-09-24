@@ -11,10 +11,8 @@
 </a>
 
 <br/>
-<br/>
-
 <h3 align="center">I'm an evolving Front-end Web-Developer & Student pursuing my Bachelors in Computer Engineering</h3>
-
+<br/>
 <!--<p align="center">
 <img src='' />
 </p>-->
