@@ -25,7 +25,7 @@
 - ❤️ I love creating things.
 - 💬 Ask me for design suggestions for your website.
 - 😄 Pronouns: He/Him
-- 😅 Fun fact: I have watched all the 7 parts of Harry potter more than 7 times in the lockdown of 2020.
+- 😅 Fun fact: I have watched all the 7 movies of Harry potter more than 7 times in the lockdown of 2020.
 <!--
 - I am a blogger read my latest blogpost [here][9].
 [9]: paste url here-->
