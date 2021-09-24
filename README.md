@@ -20,10 +20,10 @@
 </p>-->
 
 - 🔭 I’m currently working on the website for Department of Mechanical Engineering at PCCOE
-- 🌱 I’m currently learning Web development and data-structures
+- 🌱 I’m currently learning Web development and data-structures.
 - 👯 I’m looking to collaborate on Web-projects.
 - 🤔 I’m looking for help to start with an Open Source contributions.
-- ❤️ I love creating things
+- ❤️ I love creating things.
 - 💬 Ask me for design suggestions for your website.
 - 😄 Pronouns: He/Him
 - 😅 Fun fact: I have watched all the 7 parts of Harry potter more than 7 times in the lockdown of 2020.
