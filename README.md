@@ -6,7 +6,7 @@
 <a href="https://twitter.com/rajkumawat__">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:raj.s.kumawat01@gmail.com">a
+<a href="mailto:raj.s.kumawat01@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://dev.to/rajkumawat01">
