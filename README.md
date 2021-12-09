@@ -12,7 +12,7 @@
 <a href="https://dev.to/rajkumawat01">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
-<a target="_blank" href="Raj_Kumawat_Resume.pdf">Resume</a>
+<a target="_blank" href="https://drive.google.com/file/d/1TSPqsjFbbVMvdJQBAV-1hJvvvqjtFmgf/view?usp=sharing">Resume</a>
 
 <br/>
 <br/>
