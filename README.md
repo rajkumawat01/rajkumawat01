@@ -62,6 +62,6 @@
 
 [![rajkumawat's github activity graph](https://activity-graph.herokuapp.com/graph?username=rajkumawat01&theme=react-dark)](https://github.com/rajkumawat01)
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumawat01&theme=tokyonight" align="center" />
-</p>
+</p>-->
