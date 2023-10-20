@@ -13,7 +13,7 @@
 
 <br/>
 <br/>
-<h3 align="center">I'm an evolving Front-end Web-Developer & a Student pursuing my Bachelors in Computer Engineering</h3>
+<h3 align="center">I'm an evolving developer looking for an opportunities & a Bachelors in Computer Engineering</h3>
 <br/>
 <!--<p align="center">
 <img src='' />
