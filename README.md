@@ -19,14 +19,14 @@
 <img src='' />
 </p>-->
 
-- 🔭 I’m currently working on the website for Department of Mechanical Engineering at PCCOE
-- 🌱 I’m currently learning Web development and data-structures.
+- 🔭 I have developed a website for Department of Mechanical Engineering at PCCOE as a part of my internship.
+- 🔭 I have also done an internship at NielsenIQ (India) Private Limited as an Engineer
 - 👯 I’m looking to collaborate on Web-projects.
-- 🤔 I’m looking for help to start with the Open Source contributions.
+- 🤔 I’m seeking help starting with the Open Source contributions.
 - ❤️ I love creating things.
 - 💬 Ask me for design suggestions for your website.
 - 😄 Pronouns: He/Him
-- 😅 Fun fact: I have watched all the 7 movies of Harry potter more than 7 times in the lockdown of 2020.
+- 😅 Fun fact: I have watched all seven movies of Harry Potter more than seven times in the lockdown of 2020.
 <!--
 - I am a blogger read my latest blogpost [here][9].
 [9]: paste url here-->
