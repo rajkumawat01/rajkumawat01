@@ -1,10 +1,10 @@
 ## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Raj Kumawat
 
 <a href="https://www.linkedin.com/in/raj-kumawat/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-162-498418.png?f=webp&w=256"  />
 </a>
 <a href="https://stackoverflow.com/users/14830104/rajkumawat">
-  <img align="left" width="24px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg"  />
+  <img align="left" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/free-stackoverflow-2-432547.png?f=webp&w=256"  />
 </a>
 <!--
 <a href="mailto:raj.s.kumawat01@gmail.com">
