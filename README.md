@@ -14,7 +14,7 @@
 
 <br/>
 <br/>
-<h3 align="center">I'm an evolving developer looking for an opportunities & a Bachelors in Computer Engineering</h3>
+<h3 align="center">I'm Java developer looking for tech role & have completed my bachelors degree in computer engineering</h3>
 <br/>
 
 
