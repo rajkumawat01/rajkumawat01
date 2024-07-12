@@ -6,30 +6,16 @@
 <a href="mailto:raj.s.kumawat01@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://dev.to/rajkumawat01">
+<!-- <a href="https://dev.to/rajkumawat01">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a target="_blank" href="https://drive.google.com/file/d/1zIBNp1PlKqoiJdWTwOiM6mdZ7wTW4RRw/view?usp=sharing">Resume</a>
+</a> -->
+<a target="_blank" href="https://drive.google.com/file/d/1AoZh3fEqQDigHFyXK7LmpyUuztVYlky0/view?usp=sharing">Resume</a>
 
 <br/>
 <br/>
 <h3 align="center">I'm an evolving developer looking for an opportunities & a Bachelors in Computer Engineering</h3>
 <br/>
-<!--<p align="center">
-<img src='' />
-</p>-->
 
-- 🔭 I have developed a website for Department of Mechanical Engineering at PCCOE as a part of my internship.
-- 🔭 I have also done an internship at NielsenIQ (India) Private Limited as an Engineer
-- 👯 I’m looking to collaborate on Web-projects.
-- 🤔 I’m seeking help starting with the Open Source contributions.
-- ❤️ I love creating things.
-- 💬 Ask me for design suggestions for your website.
-- 😄 Pronouns: He/Him
-- 😅 Fun fact: I have watched all seven movies of Harry Potter more than seven times in the lockdown of 2020.
-<!--
-- I am a blogger read my latest blogpost [here][9].
-[9]: paste url here-->
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajkumawat01" alt="rajkumawat01" /> </p>
@@ -51,11 +37,12 @@
 [![rajkumawat's github streak](https://github-readme-streak-stats.herokuapp.com/?user=rajkumawat01&theme=blue-green)](https://github.com/rajkumawat01/github-readme-streak-stats)
 
 ![rajkumawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajkumawat01&show_icons=true&theme=chartreuse-dark)-->
-
+<!--
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajkumawat01&show_icons=true&theme=chartreuse-dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumawat01&theme=blue-green" />
 </p>
+-->
 <!--
 [![rajkumawat's github activity graph](https://activity-graph.herokuapp.com/graph?username=rajkumawat01&theme=react-dark)](https://github.com/rajkumawat01)
 
