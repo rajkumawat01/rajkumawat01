@@ -21,7 +21,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajkumawat01" alt="rajkumawat01" /> </p>
 
-## 🔧 Tools and Technologies 
+## 🔧 Technologies & Tools 
 
 <a href="#"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="c" width="40" height="40"/> </a> 
 <a href="#"> <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="c" width="40" height="40"/> </a> 
