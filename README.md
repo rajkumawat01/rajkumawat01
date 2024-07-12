@@ -4,7 +4,7 @@
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://stackoverflow.com/users/14830104/rajkumawat">
-  <img align="left" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/free-stackoverflow-12046519-9859414.png?f=webp&w=256"  />
+  <img align="left" width="24px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg"  />
 </a>
 <!--
 <a href="mailto:raj.s.kumawat01@gmail.com">
