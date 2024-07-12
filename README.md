@@ -32,7 +32,8 @@
 <a href="#"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="c" width="40" height="40"/> </a> 
 <a href="#"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/h2-heading-rectangle-icon.png" alt="c" width="40" height="40"/> </a> 
 <a href="#"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="#"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="c" width="40" height="40"/> </a> 
+<a href="#"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="c" width="40" height="40"/> </a>
+<a href="#"> <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" alt="c" width="40" height="40"/> </a>
 
 <p align="centre"> 
 <!--
