@@ -6,6 +6,9 @@
 <a href="https://stackoverflow.com/users/14830104/rajkumawat" target="_blank">
   <img align="left" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/free-stackoverflow-2-432547.png?f=webp&w=256"/>
 </a>
+<a href="https://leetcode.com/u/rajkumawat/" target="_blank">
+  <img align="left" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256"/>
+</a>
 <!--
 <a href="mailto:raj.s.kumawat01@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -14,6 +17,8 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a> -->
 <a target="_blank" href="https://drive.google.com/file/d/1AoZh3fEqQDigHFyXK7LmpyUuztVYlky0/view?usp=sharing">Resume</a>
+
+
 
 <br/>
 <br/>
