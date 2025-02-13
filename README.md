@@ -16,7 +16,7 @@
 <!-- <a href="https://dev.to/rajkumawat01">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a> -->
-<a target="_blank" href="https://drive.google.com/file/d/1AoZh3fEqQDigHFyXK7LmpyUuztVYlky0/view?usp=sharing">Resume</a>
+<a target="_blank" href="https://drive.google.com/file/d/1unN8UoahscfhNA-w2Ogf8UNfd6Wjka3d/view?usp=sharing">Resume</a>
 
 
 
